@@ -1,4 +1,4 @@
-# React basic project 01-- Text to speach
+# React basic project-- Text to speach
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
